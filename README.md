@@ -1,27 +1,27 @@
-<main>
 <div width="300" align="center">
-<img width="200" style="border-radius:11px" src="./images/foto-cv-remera-blanca-una-parte.jpg"/>
-<h4>Hola! Soy Enzo 👋  <br> Desarrollador Web Fullstack 👨‍💻</h4>
+<img width="200" border-radius="50%" src="./images/foto-cv-remera-blanca-una-parte.jpg"/>
+<h2>Hola! Soy Enzo 👋  <br> Desarrollador Web Fullstack 👨‍💻</h2>
 </div>
-<ul style="list-style:none">
-<li> ✔️  Desde enero de 2021 especializandome en desarrollo web.
-<li> ✔️ Desde enero de 2020 programando. 
-<li> ✔️ Y desde mi primera pc con una computadora.
-</ul>
-<hr>
-  <h4 align="center">Algunos Trabajos </h4>
 
-<ul style="display:flex; list-style:none; gap: 7px;" >
-  <li><a href="https://giffy-omega-one.vercel.app/" target="_blank">Giffy<img width="100%" src="./images/giffy.jpeg" /></a></li>
-  <li><a href="https://clinic-beta.vercel.app/" target="_blank">Clinic <img width="100%" src="./images/clinic.jpeg"/> </a> </li>
-</ul>
+✔️  Desde enero de 2021 especializandome en desarrollo web. <br/>
+✔️ Desde enero de 2020 programando. <br/>
+✔️ Y desde mi primera pc con una computadora.
 <hr>
-<h4 align="center">Contacto </h4>
-<ul style="list-style:none; display:flex;gap:5px; justify-content:center; padding:0;">
-<li> <a href="https://www.linkedin.com/in/enzo-ramirez-web-developer/"> <img width="20px" height="20px" src="./images/linkedin-brands.svg"> </li>  
-<li> <a> <img src="./images/at-solid.svg" width="20px" height="20px"> </li>
-</ul>
-</main>
+  
+  <h2 align="center">Algunos Trabajos </h2>
+  <a href="https://giffy-omega-one.vercel.app/" target="_blank">
+    <img width="35%" src="./images/giffy.jpeg" />
+  </a>
+  <a href="https://clinic-beta.vercel.app/" target="_blank">
+    <img width="35%" src="./images/clinic.jpeg"/>
+  </a> 
+<hr>
+<h2 align="center">Contacto </h2>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/enzo-ramirez-web-developer/"> <img width="26px" src="./images/linkedin-brands.svg"> 
+<a href="mailto:enzo.g.rz.18@gmail.com"> <img src="./images/at-solid.svg" width="26px">
+<div/>
 <!--
 **EnzoGRDev/enzogrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
