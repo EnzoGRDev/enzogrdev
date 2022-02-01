@@ -9,12 +9,15 @@
 <hr>
   
   <h2 align="center">Algunos Trabajos </h2>
-  <a href="https://giffy-omega-one.vercel.app/" target="_blank">
-    <img width="35%" src="./images/giffy.jpeg" />
+  <a href="https://barber-neon.vercel.app/" target="_blank">
+    <img width="30%" src="./images/barber.jpg"/>
   </a>
   <a href="https://clinic-beta.vercel.app/" target="_blank">
-    <img width="35%" src="./images/clinic.jpeg"/>
+    <img width="30%" src="./images/clinic.jpeg"/>
   </a> 
+  <a href="https://giffy-omega-one.vercel.app/" target="_blank">
+    <img width="30%" src="./images/giffy.jpeg" />
+  </a>
 <hr>
 <h2 align="center">Contacto </h2>
 
